@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(208, 197, 197, 0.315);
+    text-align: center;
+
+}
+div{
+    border: 6px double rgb(247, 31, 31);
+    padding: 30px;
+    margin: 15px;
+    background-color: rgba(250, 246, 239, 0.775);
+    
+   
+}
+
+p{
+    color: rgb(99, 3, 3);
+    text-align: center;
+    font-family: 'Calibri (Body)';
+    font-size: 120%;
+
+}
+
+h1 ,h2 ,h3,h4,h5{
+    color: brown;
+    font-size: 350%;
+    font-family: 'Freestyle Script';
+    text-align: center;
+    text-shadow: 4px 4px rgba(94, 91, 91, 0.203);
+}
+
+table{
+    float:center;
+}
+
+table ,td ,th{
+    border: 2px solid;
+}
+
+td,th{
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+tr:hover{
+    background-color: yellow;
+    
+}
+
+#para{
+    background-color: blueviolet;
+}
+
+.c{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
